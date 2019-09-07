@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/review_react_food/static/css/main.34ac1968.chunk.css",
+    "main.js": "/review_react_food/static/js/main.c4c83d53.chunk.js",
+    "main.js.map": "/review_react_food/static/js/main.c4c83d53.chunk.js.map",
+    "runtime~main.js": "/review_react_food/static/js/runtime~main.907f8d58.js",
+    "runtime~main.js.map": "/review_react_food/static/js/runtime~main.907f8d58.js.map",
+    "static/js/2.564c4ea5.chunk.js": "/review_react_food/static/js/2.564c4ea5.chunk.js",
+    "static/js/2.564c4ea5.chunk.js.map": "/review_react_food/static/js/2.564c4ea5.chunk.js.map",
+    "index.html": "/review_react_food/index.html",
+    "precache-manifest.8da89dfa784ce07d0caddefa02b6ce3e.js": "/review_react_food/precache-manifest.8da89dfa784ce07d0caddefa02b6ce3e.js",
+    "service-worker.js": "/review_react_food/service-worker.js",
+    "static/css/main.34ac1968.chunk.css.map": "/review_react_food/static/css/main.34ac1968.chunk.css.map"
+  }
+}
